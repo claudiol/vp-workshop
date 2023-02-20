@@ -16,7 +16,7 @@ data:
           <body>
             <center>
             <h1>
-            Welcome to the Helm example!<br>
+            Welcome to the Kustomize example!<br>
             Pod is running on Local Cluster Domain [ {{ .Values.global.localClusterDomain }} ] <br>
             </h1>
             </center>
